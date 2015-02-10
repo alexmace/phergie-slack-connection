@@ -1,7 +1,7 @@
 {
     "minimum-stability": "dev",
     "name": "phergie/phergie-slack-connection",
-    "description": "Data structure for containing information about a Slack client connection, analogous to Phergie\Irc\Connection",
+    "description": "Data structure for containing information about a Slack client connection, analogous to Phergie\\Irc\\Connection",
     "keywords": [ "slack", "client", "server", "connection" ],
     "license": "BSD-2-Clause",
     "support": {
